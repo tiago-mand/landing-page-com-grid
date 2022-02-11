@@ -57,7 +57,7 @@ body{
 .hero h2{
     font-weight: 500;
     text-transform: uppercase;
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 
 .hero::after{
